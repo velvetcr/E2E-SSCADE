@@ -5,4 +5,6 @@
 
 This code is the experimental code of the paper -- End-to-End Spectral-Spatial Cooperative Autoencoding Density Estimation Model. Please cite if it helps you.
 
-马纪涛，谢卫莹（通讯作者）, 雷杰, 方乐缘, 李云松, 端到端分布式联合优化的空谱自编码密度估计模型, 电子学报, 2023.（已录用）.
+马纪涛, 谢卫莹, 雷杰, 等. 端到端分布式联合优化的空谱自编码密度估计模型[J]. 电子学报, 2023, 51(4): 1006-1020.
+MA Ji-tao, XIE Wei-ying, LEI Jie, et al. End-to-End Spectral-Spatial Cooperative Autoencoding Density Estimation Model[J]. Acta Electonica Sinica, 2023, 51(4): 1006-1020. (in Chinese)
+文章链接：https://www.ejournal.org.cn/CN/10.12263/DZXB.20220516
